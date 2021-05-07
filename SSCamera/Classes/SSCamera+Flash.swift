@@ -55,7 +55,7 @@ extension SSCamera{
             return
         }
     }
-    
+    /// 曝光时长会影响帧率
     func _changeExposureDuration(value: Float) {
         if cameraIsSetup {
             let device: AVCaptureDevice?

@@ -9,6 +9,7 @@
 import SSCamera
 import CoreLocation
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
     // MARK: - Constants
