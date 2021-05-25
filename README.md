@@ -22,7 +22,7 @@ pod 'SSCamera'
 
 ## Author
 
-tliens, fengshikui@funlink-tech.com
+tliens, maninios@163.com
 
 ## License
 
